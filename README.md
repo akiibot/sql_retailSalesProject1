@@ -17,28 +17,30 @@ Welcome to the Retail Sales Data Analysis project! This project involves analyzi
 ##**📊 Key Analyses**
 ----------------------------------------------------------------------
 ✅ **General Insights**
-
-Total number of transactions    
-Unique customers and product categories
-Null value checks and cleanup
+1. Total number of transactions    
+2. Unique customers and product categories
+3. Null value checks and cleanup
 
 **📅 Time-Based Analysis**
-Daily and monthly sales trends
-Shift-wise performance (Morning, Afternoon, Evening)
-Best-selling months per year
+1. Daily and monthly sales trends
+2. Shift-wise performance (Morning, Afternoon, Evening)
+3. Best-selling months per year
 
 **🧑 Customer Behavior**
-Repeat customers
-Average age by category
-Age group distribution
-Gender-based sales performance
-Top 5 highest-spending customers
+1. Repeat customers
+2. Average age by category
+3. Age group distribution
+4. Gender-based sales performance
+5. Top 5 highest-spending customers
 
 **📦 Product & Sales Insights**
-Top-selling product categories
-Quantity sold per category
-Price and revenue analysis per category
-Transactions above threshold sale values
+1. Top-selling product categories
+2. Quantity sold per category
+3. Price and revenue analysis per category
+4. Transactions above threshold sale values
+
+
+
     
 
 
