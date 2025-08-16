@@ -14,31 +14,31 @@ Welcome to the Retail Sales Data Analysis project! This project involves analyzi
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
-**📊 Key Analyses**
+##**📊 Key Analyses**
 ----------------------------------------------------------------------
 ✅ **General Insights**
 
-Total number of transactions    
-Unique customers and product categories
-Null value checks and cleanup
+-Total number of transactions    
+-Unique customers and product categories
+-Null value checks and cleanup
 
 **📅 Time-Based Analysis**
 -Daily and monthly sales trends
-Shift-wise performance (Morning, Afternoon, Evening)
-Best-selling months per year
+-Shift-wise performance (Morning, Afternoon, Evening)
+-Best-selling months per year
 
 **🧑 Customer Behavior**
-Repeat customers
-Average age by category
-Age group distribution
-Gender-based sales performance
-Top 5 highest-spending customers
+-Repeat customers
+-Average age by category
+-Age group distribution
+-Gender-based sales performance
+-Top 5 highest-spending customers
 
 **📦 Product & Sales Insights**
-Top-selling product categories
-Quantity sold per category
-Price and revenue analysis per category
-Transactions above threshold sale values
+-Top-selling product categories
+-Quantity sold per category
+-Price and revenue analysis per category
+-Transactions above threshold sale values
     
 
 ## Project Structure
