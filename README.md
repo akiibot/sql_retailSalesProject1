@@ -14,7 +14,8 @@ Welcome to the Retail Sales Data Analysis project! This project involves analyzi
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
-##**📊 Key Analyses**
+
+## 📊 Key Analyses
 ----------------------------------------------------------------------
 ✅ **General Insights**
 1. Total number of transactions    
@@ -289,6 +290,12 @@ ORDER BY avg_price DESC;
 - **Trend Analysis**: Insights into sales trends across different months and shifts.
 - **Customer Insights**: Reports on top customers and unique customer counts per category.
 
+## 🛠️ Technologies Used
+
+1. PostgreSQL – For querying and analyzing sales data
+
+2. DBeaver – PostgreSQL GUI for running queries and visualizing results
+    
 ## Conclusion
 
 I have made this project to get a comprehensive understanding of SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance. This project was inspired by ZERO ANALYST.
